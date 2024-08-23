@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vphys_extract", "vphys_extract\vphys_extract.csproj", "{A8382A20-758C-481E-8104-6D31186385D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cli", "cli\cli.csproj", "{A7C782AC-176A-4384-8B78-37B7F80DE062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8382A20-758C-481E-8104-6D31186385D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8382A20-758C-481E-8104-6D31186385D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8382A20-758C-481E-8104-6D31186385D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8382A20-758C-481E-8104-6D31186385D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C782AC-176A-4384-8B78-37B7F80DE062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C782AC-176A-4384-8B78-37B7F80DE062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C782AC-176A-4384-8B78-37B7F80DE062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C782AC-176A-4384-8B78-37B7F80DE062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
