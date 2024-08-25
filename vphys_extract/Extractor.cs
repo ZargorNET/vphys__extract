@@ -149,9 +149,15 @@ public static class Extractor
     {
         inds.Add(baseVertex + a);
         inds.Add(baseVertex + b);
+        inds.Add(baseVertex + c);
+    
+        /*
+         *     inds.Add(baseVertex + a);
+        inds.Add(baseVertex + b);
         inds.Add(baseVertex + b);
         inds.Add(baseVertex + c);
         inds.Add(baseVertex + c);
         inds.Add(baseVertex + a);
+         */
     }
 }
